@@ -11,6 +11,9 @@
     <string name="attach">Name</string>
     <string name="save">Name</string>
     <string name="Howwasyourday">Name</string>
+    <string name="text_edit">Name</string>
+    <string name="text_share">Name</string>
+    <string name="text_delete">Name</string>
     <string name="title_activity_list_of_diary">ListOfDiary</string>
     <string name="title_activity_listof">ListofActivity</string>
     <string name="title_activity_listof_diary">ListofDiary</string>
