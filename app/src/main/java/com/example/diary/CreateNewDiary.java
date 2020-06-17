@@ -92,7 +92,7 @@ public class CreateNewDiary extends AppCompatActivity {
         }
     }
 
-    public class AgentAsyncTask extends AsyncTask<String, Void, Integer> {
+    public class  AgentAsyncTask extends AsyncTask<String, Void, Integer> {
 
         DiaryEntity diaryEntity = new DiaryEntity();
 
